@@ -560,7 +560,7 @@ whichever rc file you're using).
 
 ### Keybindings
 
-You can check out the list of keybindings [here](/docs/keybindings).
+You can check out the list of keybindings [here](/docs/Keybindings_en.md).
 
 ### Changing Directory On Exit
 
